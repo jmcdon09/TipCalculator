@@ -19,9 +19,6 @@ class TipCalculatorModel {
     }
     
     init(total: Double, taxPct: Double) {
-        
-        
-        
         self.total = total
         self.taxPct = taxPct
     }//end init
